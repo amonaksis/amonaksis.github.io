@@ -1,8 +1,43 @@
-h1 {
+/*  It was turned into a comment because it failed to load the font.
+    I shall use a link instead.
+
+    @font-face {
+    font-family: 'Technofont-Chosen';
+    src: url(../resources/fonts/Audiowide-Regular.ttf) format('truetype');
+    }
+
+*/
+
+.header {
+    margin-top: 0;
+    margin-bottom: 0;
     color:rgb(139, 12, 242);
-    font-size: 20px;
+    font-size: 80px;
     font-family: Arial, sans-serif;
     text-align: center;
     background-color: #1cc4d7;
+    font-family: 'Technofont-Chosen', 'Audiowide-Regular', Arial, sans-serif;
 }
+
+.description {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #043939;
+    font-size: 35px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #cc2a2a;
+}
+
+.icecream img {
+    margin-top: 0;
+    margin-bottom: 0;
+    color: #043939;
+    font-size: 35px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #cc2a2a;
+    
+}
+
 
